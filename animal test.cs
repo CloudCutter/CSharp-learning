@@ -1,6 +1,9 @@
 using System;
 namespace tong
 {
+	class Student{
+		String name;
+	}
 	class Secret
 	{
 		public int Age{get;set;}
